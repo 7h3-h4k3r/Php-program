@@ -1,0 +1,3 @@
+--8/09/24
+CREATE DATABASE myapp;
+USE myapp;
